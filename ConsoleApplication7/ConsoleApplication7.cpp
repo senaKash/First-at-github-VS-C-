@@ -75,7 +75,7 @@ void startuem() {
 
 int main()
 {
-
+	 //sdfghjkjhgfdfghjkl;lkjhghjklkjhgfhj
 	
 	wchar_t way[255] = L"C:\\Users\\R0man\\Pictures\\123.exe";
 	
